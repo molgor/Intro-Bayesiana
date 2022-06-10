@@ -1,5 +1,5 @@
-#+TITLE: A default template for a research project
-#+SUBTITLE: Some subtitle
+#+TITLE: Notas para aprender estadística bayesiana
+#+SUBTITLE: O como implementar procesos estocásticos generadores de observaciones
 #+AUTHOR: Juan M. Escamilla Mólgora
 #+EMAIL: juan[-at+]bioma.mx
 #+LANGUAGE: en
@@ -10,8 +10,11 @@
 #+latex_header: \usepackage{libertine}
 #+OPTIONS: toc:nil        (no default TOC at all)
 
-Something to say!
 
+Estas notas incluyen el material de modelos lineales y procesos gausianos.
+
+** Correr el cuaderno de Jupyter
+Se recomienda utilizar una imagen de Biospytial3 y montar este repositorio en 'external_plugins'
 :LOGBOOK:
 To convert this org file to Github do:
 #+begin_src bash
